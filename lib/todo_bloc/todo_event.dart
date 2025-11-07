@@ -29,4 +29,3 @@ class ToggleTodo extends TodoEvent {
   @override
   List<Object?> get props => [index];
 }
-  
